@@ -1,2 +1,3 @@
 # Own_Voice_Assistant
-Create my own voice assistant
+
+It is a Voice Assistant like as Alexa, Siri, Google assistant, etc. But it performs some specific tasks.
